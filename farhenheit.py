@@ -13,7 +13,7 @@ f=9.0/5.0*c+32
 print("celsius",c,"fahrenheit",f)
 
 
-
+###print first name last name
 f=str(input("enter first name:"))
 l=str(input("enter last name:"))
 print(l+" "+f)

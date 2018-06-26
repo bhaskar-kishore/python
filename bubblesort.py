@@ -5,10 +5,6 @@ Created on Wed Jun 20 16:27:43 2018
 @author: Bhaskar_Kishore
 """
 
-t1=(1,2,3)
-t2=(4,5,6)
-nt=(t1,t2)
-print(nt)
 
 
 def bubblesort(list):
